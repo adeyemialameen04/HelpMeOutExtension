@@ -1,0 +1,7 @@
+.contols__container {
+    display: flex;
+    align-items: center;
+    width: 500px;
+    background-color: var(--clr-fair-black);
+    padding-block: 1rem;
+}
